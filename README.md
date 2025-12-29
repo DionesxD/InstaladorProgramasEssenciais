@@ -59,12 +59,15 @@ Por motivos de licença e segurança, os arquivos **não são versionados** nest
 
 ## 📸 Screenshots
 
-*(Adicione aqui imagens da interface da ferramenta)*
+*(Aplicativo Iniciando)*
 
 ![Windows-screen0 (online-video-cutter com)](https://github.com/user-attachments/assets/0554d579-ed8f-42fa-b10e-b69160d31bff)
 
+*(Efetuando as instalações)*
+
 ![Windows-screen0 (online-video-cutter com) (3)](https://github.com/user-attachments/assets/81feba31-9492-4540-888a-ee2e56d526af)
 
+*(Finalizando as alterações e Reiniciando)*
 ![Windows-screen0 (online-video-cutter com) (1)](https://github.com/user-attachments/assets/c336c794-5333-4ed2-812d-6a29a4abc04b)
 
 
